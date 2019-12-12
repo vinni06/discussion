@@ -1,9 +1,13 @@
 hi
 this is discussion
 made by pavan!
+<<<<<<< HEAD
 hai
 second made by oavan!
 third made by pavan!
+=======
+
 hi 
 hello
 made by vinni
+>>>>>>> de651633d903de32d370b42cae6e3def69be7513
